@@ -1,6 +1,6 @@
 # Event_Company_Website
 Created a website template for an Event management Company.
-<img src="demo/1.jpg">
+<img src="demo/1.jpg"><br>
 <img src="demo/2.jpg">
 
 <br>---------------------------------------------------------------------------------------------------------------------------------<br>
